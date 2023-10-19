@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1040332827732",
+    "firebase_url": "https://uzbek-messag-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uzbek-messag",
+    "storage_bucket": "uzbek-messag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040332827732:android:4c3709f47504850b4bd1c1",
+        "android_client_info": {
+          "package_name": "dev.nematov.fire_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzL0F-usDdJTR_GYhhUWXK4ThXQOx_IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040332827732:android:d8704d35c527b85b4bd1c1",
+        "android_client_info": {
+          "package_name": "dev.nematov.messagin_app_uz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzL0F-usDdJTR_GYhhUWXK4ThXQOx_IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
